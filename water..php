@@ -32,7 +32,7 @@ $day = 0;
     <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Alata&family=Bebas+Neue&family=Domine:wght@400..700&display=swap" rel="stylesheet">
-    <title>water-menu</title>
+    <title>Karma Portfolio</title>
 </head>
 <div class="naviguator">
 <div class="nav"><h3 class="nav-portfolio">portfolio</h3><h3>/</h3><h3 class="nav-project">project</h3></div></div>
