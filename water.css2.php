@@ -1,3 +1,13 @@
+<script>let condition = true;
+
+if (condition) {
+  // Redirige vers une autre page si la condition est vraie
+  window.location.replace("water..php");
+} else {
+  // Optionnel : afficher un message si la condition est fausse
+  console.log("La condition est fausse, pas de redirection nécessaire.");
+}</script>
+
 <style>.circle-1 {
   background: rgba(20, 163, 202, 1);
   border-radius: 50%;
